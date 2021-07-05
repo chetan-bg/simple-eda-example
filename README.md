@@ -23,4 +23,4 @@ Refused: The company had rejected the loan (because the client does not meet the
 Unused offer: Loan has been cancelled by the client but on different stages of the process.
 
 Goal / Business Objective:
-Identify Patterns (KPIs) that indicate whether a client has tendency to show difficulties to pay installments which can lead some of the below possible outcomes: -- Deny Loan in case of applicants showing tendency to default payments -- Reduce the loan amount in case the applicants are not eligible for such applied loan. -- lend at higher rates of interests for customers / borrowers showing tendency to default (risk based pricing)
+This exercise aims to Identify Patterns (KPIs) that indicate whether a client has tendency to show difficulties to pay installments which can lead some of the below possible outcomes: -- Deny Loan in case of applicants showing tendency to default payments -- Reduce the loan amount in case the applicants are not eligible for such applied loan. -- lend at higher rates of interests for customers / borrowers showing tendency to default (risk based pricing)
